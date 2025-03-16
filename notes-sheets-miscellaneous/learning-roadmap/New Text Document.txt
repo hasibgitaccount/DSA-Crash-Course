@@ -1,0 +1,45 @@
+🚀 Your Python DSA Roadmap: Watch + Practice
+Phase 1: Data Structures (Foundations)
+Goal: Build a solid understanding of core data structures and implement them yourself.
+
+Topic	What to Watch	What to Practice
+Big O Notation	FreeCodeCamp (00:00 - 16:00)	Understand Time & Space complexity. Do some quick exercises: calculate Big O for simple loops.
+Arrays / Lists	FCC (16:00 - 40:00)	- Implement dynamic array manually (optional).
+- LeetCode Easy: Two Sum, Best Time to Buy and Sell Stock, Remove Duplicates from Sorted Array
+Linked Lists	FCC (40:00 - 1:07:00)	- Implement singly and doubly linked lists.
+- LeetCode Easy: Reverse Linked List, Merge Two Sorted Lists
+Stacks & Queues	FCC (1:07:00 - 1:38:00)	- Implement stacks/queues using lists and linked lists.
+- LeetCode Easy: Valid Parentheses, Min Stack
+Hash Tables / Hash Maps	FCC (1:38:00 - 2:06:00)	- Implement a basic hash map.
+- LeetCode Easy: Two Sum (again), Contains Duplicate
+Trees (Binary Trees)	FCC (2:06:00 - 2:55:00)	- Implement a binary tree and tree traversals (pre, in, post order).
+- LeetCode Easy: Maximum Depth of Binary Tree, Symmetric Tree
+Binary Search Trees (BST)	FCC (2:55:00 - 3:31:00)	- Implement insertion, search, and deletion.
+- LeetCode Easy: Validate BST, Lowest Common Ancestor
+Heaps / Priority Queue	FCC (3:31:00 - 3:50:00)	- Implement a min-heap / max-heap.
+- LeetCode Easy: Kth Largest Element in Array
+Graphs (Basics)	FCC (3:50:00 - 4:32:00)	- Implement a graph (adjacency list/dict).
+- LeetCode Easy: Find if Path Exists in Graph
+Phase 2: Algorithms (Core Techniques)
+Goal: Learn how to manipulate data structures to solve real problems.
+
+Topic	What to Watch	What to Practice
+Recursion & Backtracking	FCC (4:32:00 - 5:02:00)	- Classic recursion: Factorial, Fibonacci.
+- LeetCode Easy/Medium: Subsets, Permutations
+Sorting Algorithms	FCC (5:02:00 - 5:45:00)	- Implement Bubble Sort, Merge Sort, Quick Sort.
+- LeetCode Easy: Sort Colors
+Searching Algorithms	FCC (5:45:00 - 6:05:00)	- Implement Binary Search.
+- LeetCode Easy: Binary Search, First Bad Version
+Breadth-First Search (BFS)	FCC (6:05:00 - 6:34:00)	- LeetCode Easy: Flood Fill
+- LeetCode Medium: Word Ladder
+Depth-First Search (DFS)	FCC (6:34:00 - 7:04:00)	- LeetCode Medium: Number of Islands, Surrounded Regions
+Dynamic Programming (Intro)	FCC (7:04:00 - 8:02:00)	- LeetCode Easy: Climbing Stairs
+- LeetCode Medium: House Robber, Coin Change
+Greedy Algorithms	FCC (8:02:00 - 8:30:00)	- LeetCode Easy: Jump Game, Assign Cookies
+- LeetCode Medium: Minimum Number of Arrows to Burst Balloons
+Phase 3: Practice & Mastery
+Goal: Combine DS & Algo skills to solve more real problems.
+
+Start solving LeetCode "Top Interview Questions - Easy & Medium"
+Focus 50% on topics you're weak at, 50% on mixed questions
+Do 1-3 problems daily, even if you just think through them
